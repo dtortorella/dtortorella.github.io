@@ -1,3 +1,7 @@
+---
+title: Domenico Tortorella
+---
+
 # Research topics
 - Machine learning for graphs
 - Reservoir computing
