@@ -17,3 +17,5 @@ Domenico Tortorella received the BSc in computer engineering from the University
 # Contact
 **Room 298a**, Department of Computer Science, University of Pisa  
 Largo B. Pontecorvo, 3, 56127 Pisa, Italy
+
+![ORCID](https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif) [https://orcid.org/0000-0003-3910-7713](https://orcid.org/0000-0003-3910-7713)
