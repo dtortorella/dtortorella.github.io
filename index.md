@@ -10,7 +10,7 @@ Domenico Tortorella received the BSc in computer engineering from the University
 - Constructive neural networks
 
 # Publications
-- C. Gallicchio, A. Micheli, D. Tortorella (2022). ***Spectral Bounds for Graph Echo State Network Stability***. The 2022 International Joint Conference on Neural Networks (accepted for oral presentation)
+- D. Tortorella, C. Gallicchio, A. Micheli (2022). ***Spectral Bounds for Graph Echo State Network Stability***. The 2022 International Joint Conference on Neural Networks (accepted for oral presentation)
     > Graph echo state networks (GESN) are a class of reservoir computing models for the efficient and effective processing of graphs. They compute graph embeddings by the convergence to a fixed point of a dynamical system, randomly initialized according to a generalization of the echo state property, called the graph embedding stability (GES) property. In this paper, we prove new and more accurate bounds for necessary and sufficient GES conditions.
 Experiments demonstrate how these bounds allow an easier parameter selection and better quality reservoirs.
 
