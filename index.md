@@ -10,6 +10,9 @@ Domenico Tortorella received the BSc in computer engineering from the University
 - Constructive neural networks
 
 # Publications
+- D. Tortorella, A. Micheli (2022). ***Beyond Homophily with Graph Echo State Networks***. ESANN 2022 (accepted for oral presentation)
+    > Graph Echo State Networks (GESN) have already demonstrated their efficacy and efficiency in graph classification tasks. However, semi-supervised node classification brought out the problem of over-smoothing in end-to-end trained deep models, which causes a bias towards high homophily graphs. We evaluate for the first time GESN on node classification tasks with different degrees of homophily, analyzing also the impact of the reservoir radius. Our experiments show that reservoir models are able to achieve better or comparable accuracy with respect to fully trained deep models that implement ad hoc variations in the architectural bias, with a gain in terms of efficiency.
+
 - D. Tortorella, C. Gallicchio, A. Micheli (2022). ***Spectral Bounds for Graph Echo State Network Stability***. The 2022 International Joint Conference on Neural Networks (accepted for oral presentation)
     > Graph echo state networks (GESN) are a class of reservoir computing models for the efficient and effective processing of graphs. They compute graph embeddings by the convergence to a fixed point of a dynamical system, randomly initialized according to a generalization of the echo state property, called the graph embedding stability (GES) property. In this paper, we prove new and more accurate bounds for necessary and sufficient GES conditions.
 Experiments demonstrate how these bounds allow an easier parameter selection and better quality reservoirs.
@@ -27,3 +30,4 @@ Largo B. Pontecorvo, 3, 56127 Pisa, Italy
 ![ORCID](https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif) [ORCID 0000-0003-3910-7713](https://orcid.org/0000-0003-3910-7713)   
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57313459700)
 [Web of Science](https://publons.com/researcher/CAH-3249-2022/)
+[Scholar](https://scholar.google.com/citations?user=xfp2G08AAAAJ)
