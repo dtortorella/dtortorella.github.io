@@ -2,7 +2,7 @@
 title: Domenico Tortorella
 ---
 
-Domenico Tortorella received the BSc in computer engineering from the University of Salerno, Italy, in 2017, and the MSc in computer science from the University of Pisa, Italy, in 2020. Currently, he is a PhD student in computer science at the University of Pisa, working within the Computational Intelligence and Machine Learning research group ([CIML](https://ciml.di.unipi.it/)) at the Department of Computer Science.
+Domenico Tortorella received the BSc in computer engineering from the University of Salerno, Italy, in 2017, and the MSc in computer science from the University of Pisa, Italy, in 2020. Currently, he is a PhD student in computer science at the University of Pisa under the supervision of prof. Alessio Micheli, working within the Computational Intelligence and Machine Learning research group ([CIML](https://ciml.di.unipi.it/)) at the Department of Computer Science.
 
 # Research topics
 - Machine learning for graphs
