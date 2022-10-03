@@ -10,7 +10,7 @@ Domenico Tortorella received the BSc in computer engineering from the University
 - Constructive neural networks
 
 # Publications
-- D. Tortorella, A. Micheli (2022). ***Beyond Homophily with Graph Echo State Networks***. Accepted for oral presentation at ESANN 2022
+- D. Tortorella, A. Micheli (2022). ***Beyond Homophily with Graph Echo State Networks***. Proceedings of the 30th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2022), pp. 491-496 [doi:10.14428/esann/2022.ES2022-58](https://doi.org/10.14428/esann/2022.ES2022-58)
     > Graph Echo State Networks (GESN) have already demonstrated their efficacy and efficiency in graph classification tasks. However, semi-supervised node classification brought out the problem of over-smoothing in end-to-end trained deep models, which causes a bias towards high homophily graphs. We evaluate for the first time GESN on node classification tasks with different degrees of homophily, analyzing also the impact of the reservoir radius. Our experiments show that reservoir models are able to achieve better or comparable accuracy with respect to fully trained deep models that implement ad hoc variations in the architectural bias, with a gain in terms of efficiency.
 
 - D. Tortorella, C. Gallicchio, A. Micheli (2022). ***Hierarchical Dynamics in Deep Echo State Networks***. Proceedings of the 31st International Conference on Artificial Neural Networks (ICANN 2022), pp. 668-679 [doi:10.1007/978-3-031-15934-3_55](https://doi.org/10.1007/978-3-031-15934-3_55)
