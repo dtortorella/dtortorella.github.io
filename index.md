@@ -35,5 +35,5 @@ Largo B. Pontecorvo, 3, 56127 Pisa, Italy
 
 ![ORCID](https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif) [ORCID 0000-0003-3910-7713](https://orcid.org/0000-0003-3910-7713)   
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57313459700)
-[Web of Science](https://publons.com/researcher/CAH-3249-2022/)
+[Web of Science](https://www.webofscience.com/wos/author/rid/CAH-3249-2022)
 [Scholar](https://scholar.google.com/citations?user=xfp2G08AAAAJ)
