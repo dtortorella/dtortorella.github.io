@@ -38,3 +38,4 @@ Largo B. Pontecorvo, 3, 56127 Pisa, Italy
 <img src="https://www.scopus.com/static/proteus-images/favicon.ico?ver=1.0" width="16"/> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57313459700)
 <img src="https://www.webofscience.com/wos/static/favicon.png" width="16"/> [Web of Science](https://www.webofscience.com/wos/author/rid/CAH-3249-2022)   
 <img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" width="16"/> [LinkedIn](https://www.linkedin.com/in/domenicotortorella/)
+<img src="https://abs.twimg.com/favicons/twitter.2.ico" width="16"/> [Twitter](https://twitter.com/dotortorella)
