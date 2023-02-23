@@ -29,7 +29,7 @@ Experiments demonstrate how these bounds allow an easier parameter selection and
     > Dynamic temporal graphs represent evolving relations between entities, e.g. interactions between social network users or infection spreading. We propose an extension of graph echo state networks for the efficient processing of dynamic temporal graphs, with a sufficient condition for their echo state property, and an experimental analysis of reservoir layout impact. Compared to temporal graph kernels that need to hold the entire history of vertex interactions, our model provides a vector encoding for the dynamic graph that is updated at each time-step without requiring training. Experiments show accuracy comparable to approximate temporal graph kernels on twelve dissemination process classification tasks.
 
 # Teaching
-- Teaching Assistant for the *Machine Learning* course, Master Degree in Computer Science (fall 2022)
+- Teaching Assistant for the *Machine Learning* course, Master Degree in Computer Science (fall 2022) [↪](https://elearning.di.unipi.it/enrol/index.php?id=302)
 
 # Membership
 - Institute of Electrical and Electronics Engineers (IEEE), Student member since 2016
