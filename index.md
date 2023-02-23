@@ -35,10 +35,11 @@ Experiments demonstrate how these bounds allow an easier parameter selection and
 - Institute of Electrical and Electronics Engineers (IEEE), Student member since 2016
 - Association for Computing Machinery (ACM), Student member since 2017
 - European Neural Network Society (ENNS), Student member since 2022
-- ICANN 2022, Program Committee member [↗](https://e-nns.org/icann2022/organization/programme-committee/)
+- ICANN 2022, Program Committee member [↪](https://e-nns.org/icann2022/organization/programme-committee/)
 
 # Contact
-**Room 298A**, Department of Computer Science, University of Pisa  
+**Room 298A**  
+**Department of Computer Science, University of Pisa**  
 Largo B. Pontecorvo, 3, 56127 Pisa, Italy
 
 ![ORCID](https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif) [ORCID 0000-0003-3910-7713](https://orcid.org/0000-0003-3910-7713)   
