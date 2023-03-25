@@ -32,9 +32,10 @@ Experiments demonstrate how these bounds allow an easier parameter selection and
 - Teaching Assistant for the *Machine Learning* course, Master Degree in Computer Science (fall 2022) [↪](https://elearning.di.unipi.it/enrol/index.php?id=302)
 
 # Membership
+- Vice-Chair of the IEEE Student Branch of Pisa (2023-)
 - Institute of Electrical and Electronics Engineers (IEEE), Student member since 2016
 - Association for Computing Machinery (ACM), Student member since 2017
-- European Neural Network Society (ENNS), Student member since 2022
+- European Neural Network Society (ENNS), Student member (2022)
 - ICANN 2022, Program Committee member [↪](https://e-nns.org/icann2022/organization/programme-committee/)
 
 # Contact
