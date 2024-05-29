@@ -2,7 +2,7 @@
 title: Domenico Tortorella
 ---
 
-Domenico Tortorella received the BSc in computer engineering from the University of Salerno, Italy, in 2017, and the MSc in computer science from the University of Pisa, Italy, in 2020. Currently, he is a PhD student in computer science at the University of Pisa under the supervision of prof. Alessio Micheli, working within the Computational Intelligence and Machine Learning research group ([CIML](https://ciml.di.unipi.it/)) at the Department of Computer Science.
+Domenico Tortorella received the BSc in computer engineering from the University of Salerno, Italy, in 2017, and the MSc in computer science from the University of Pisa, Italy, in 2020. Currently, he is a PhD student in computer science at the University of Pisa under the supervision of prof. Alessio Micheli, working within the Computational Intelligence and Machine Learning research group ([CIML](https://ciml.di.unipi.it/)) at the Department of Computer Science, and a research fellow for the Future AI Research ([FAIR](https://fondazione-fair.it/)) project.
 
 # Research topics
 - Machine learning for graphs
@@ -10,6 +10,12 @@ Domenico Tortorella received the BSc in computer engineering from the University
 - Constructive neural networks
 
 # Publications
+
+- A. Micheli, D. Tortorella (2024). ***Designs of Graph Echo State Networks for Node Classification***. Neurocomputing, *in publication*.
+    > Among the Graph Neural Network (GNN) models that address the task of node classification, Graph Echo State Networks (GESN) have proved particularly effective in addressing the challenge of heterophily, i.e. the presence of a significant fraction of inter-class edges in the learning task graph. The effectiveness of GESN is paired with its efficiency, owing to the reservoir computing paradigm. While previous literature has analyzed the design of reservoirs for sequence ESN and GESN for graph-level tasks, the problem of providing effective designs of reservoirs for node-level GESN is so far largely unexplored. In this paper we analyze the impact of different reservoir designs on node classification accuracy and on the quality of node embeddings computed by GESN, focusing both on dense and sparse reservoir layouts. As measures of embedding richness, we adopt both graph topology-dependent metrics previously employed in the analysis of embedding smoothing, and topology-independent metrics from the areas of information theory and numerical analysis. In particular, we propose the application of entropy measures for quantifying information in node embeddings.
+
+- A. Ceni, P. F. Dominey, C. Gallicchio, A. Micheli, L. Pedrelli, D. Tortorella (2024). ***Continuously Deep Recurrent Neural Networks***. Accepted at ECML-PKDD 2024.
+    > We introduce a Recurrent Neural Network model characterized by connectivity patterns inspired by local cortical connectivity in the brain. Leveraging on local connections between neurons, we are able to model the effective depth of the proposed model in a continuous fashion via a single hyperparameter that controls the extent of local connectivity. We frame the proposed neural model in the context of Reservoir Computing, and show empirically that its local connectivity degree enables diverse dynamical behaviors in terms of memorization capabilities.
 
 - D. Tortorella, A. Micheli (2023). ***Minimum Spanning Set Selection in Graph Kernels***. 13th IAPR-TC15 International Workshop on Graph-Based Representations in Pattern Recognition (GbR 2023), pp. 15-24. [doi:10.1007/978-3-031-42795-4_2](https://doi.org/10.1007/978-3-031-42795-4_2) ⭐ **Best Paper Award**
     > Kernel-based learning models such as support vector machines (SVMs) can seamlessly deal with graph structures thanks to suitable kernel functions that compute a particular similarity between pairs of data samples. In the last two decades, a plethora of graph kernels have been proposed, motivated by theoretical properties or designed specifically for an application domain. Computing graph kernels however presents a significant cost for both training and inference, since predictions on unseen graphs require evaluating the kernel e.g. between the new sample and all support vectors, and solutions to an SVM optimization problem are not guaranteed to be sparse. In this paper, we present a method to select a minimum set of spanning vectors for the solutions of SVMs, based on the rank-revealing QR decomposition of the kernel Gram matrix. We apply it on 18 real-world classification tasks on chemical compounds, showing its effectiveness to reduce the computational burden in performing inference on unseen graphs by minimizing the number of support vectors without penalizing accuracy. This in turn gives us a tool to better analyze the trade-off between accuracy, expressiveness and inference cost among different graph kernels.
@@ -59,6 +65,7 @@ Experiments demonstrate how these bounds allow an easier parameter selection and
 - ICANN 2022, Program Committee member [↪](https://e-nns.org/icann2022/organization/programme-committee/)
 - ICANN 2023, Program Committee member [↪](https://e-nns.org/icann2023/organization/programme-committee/)
 - Temporal Graph Learning Workshop @ NeurIPS 2023, Program Committee member [↪](https://sites.google.com/view/tglworkshop-2023/home#h.axfs4bkigqjd)
+- RC 2024 Workshop @ ICANN 2024, Organizing Committee member [↪](https://sites.google.com/view/reservoircomputing2024)
 
 # Contact
 **Room 298A**  
