@@ -14,13 +14,13 @@ Domenico Tortorella received the BSc in computer engineering from the University
 - A. Micheli, D. Tortorella (2024). ***Designs of Graph Echo State Networks for Node Classification***. Neurocomputing, vol. 597, 127965. [doi:10.1016/j.neucom.2024.127965](https://doi.org/10.1016/j.neucom.2024.127965)
     > Among the Graph Neural Network (GNN) models that address the task of node classification, Graph Echo State Networks (GESN) have proved particularly effective in addressing the challenge of heterophily, i.e. the presence of a significant fraction of inter-class edges in the learning task graph. The effectiveness of GESN is paired with its efficiency, owing to the reservoir computing paradigm. While previous literature has analyzed the design of reservoirs for sequence ESN and GESN for graph-level tasks, the problem of providing effective designs of reservoirs for node-level GESN is so far largely unexplored. In this paper we analyze the impact of different reservoir designs on node classification accuracy and on the quality of node embeddings computed by GESN, focusing both on dense and sparse reservoir layouts. As measures of embedding richness, we adopt both graph topology-dependent metrics previously employed in the analysis of embedding smoothing, and topology-independent metrics from the areas of information theory and numerical analysis. In particular, we propose the application of entropy measures for quantifying information in node embeddings.
 
-- A. Ceni, P. F. Dominey, C. Gallicchio, A. Micheli, L. Pedrelli, D. Tortorella (2024). ***Continuously Deep Recurrent Neural Networks***. Accepted at ECML-PKDD 2024.
+- A. Ceni, P. F. Dominey, C. Gallicchio, A. Micheli, L. Pedrelli, D. Tortorella (2024). ***Continuously Deep Recurrent Neural Networks***. Machine Learning and Knowledge Discovery in Databases: Research Track. ECML PKDD 2024. LNCS vol. 14947, pp. 59-73. [doi:10.1007/978-3-031-70368-3_4](https://doi.org/10.1007/978-3-031-70368-3_4)
     > The architecture of multi-layer dynamic neural systems traditionally contains recurrent neurons organized in successive well-defined layers. In this paper, we introduce a new class of recurrent neural models based on a fundamentally different type of topological organization than the conventionally used deep recurrent networks, and directly inspired by the way cortical networks in the brain process information at multiple temporal scales. We explore the novel paradigm from the perspective of Reservoir Computing (RC), a popular approach to designing efficiently trainable recurrent neural networks, and introduce the Continuously-Deep Echo State Network (C-DESN). The proposed C-DESN architecture comprises a reservoir layer of untrained recurrent neurons connected in a biologically inspired exponentially decaying pattern based on distance. The depth of the resulting neural information processing system is modulated by a single depth hyperparameter that controls the extent of local connectivity. Mathematically, we analyze the dynamical stability properties of the continuously deep reservoir, providing a rigorous bound on the resulting eigenspectrum. Empirically, we show that the novel recurrent architecture is biased toward tunable temporal resolution processing in the same way as conventional deep recurrent neural networks. Additionally, our experiments on short-term memory capacity and real-world time-series reconstruction demonstrate how the depth hyperparameter of C-DESN can effectively regulate the temporal scale in the reservoir's dynamic behavior.
 
-- D. Tortorella, A. Micheli (2024). ***Onion Echo State Networks: A Preliminary Analysis of Dynamics***. Accepted at ICANN 2024.
+- D. Tortorella, A. Micheli (2024). ***Onion Echo State Networks: A Preliminary Analysis of Dynamics***. Proceedings of the 33rd International Conference on Artificial Neural Networks (ICANN 2024), pp. 117-128. [doi:10.1007/978-3-031-72359-9_9](https://doi.org/10.1007/978-3-031-72359-9_9)
     > Echo state networks (ESNs) are a class of recurrent neural networks (RNNs) designed according to the Reservoir Computing (RC) approach, where the dynamical part of the model is initialized and left untrained. The reservoir's topology and spectral properties both play an important role in producing an informative encoding of the input sequence. So far, only Deep ESNs have been able to provide a clear hierarchy of representations by structuring the reservoir in multiple layers, thus encoding the input sequence on different time scales. In this paper, we propose Onion ESNs, whose reservoirs are structured in segregated groups of units, each group corresponding to an annular segment of the whole reservoir spectrum. The experimental analysis of our model confirms that groups of reservoir units provide representations specialized in different dynamical regimes and signal frequencies. The results of this paper can potentially be applied to the adaptive designs of ESNs as well as to the design of fully-trained RNNs.
 
-- D. Tortorella, A. Micheli (2024). ***Continual Learning with Graph Reservoirs: Preliminary experiments in graph classification***. Accepted at ESANN 2024.
+- D. Tortorella, A. Micheli (2024). ***Continual Learning with Graph Reservoirs: Preliminary experiments in graph classification***. Proceedings of the 32nd European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2024), pp. 35-40. [doi:10.14428/esann/2024.ES2024-21](https://doi.org/10.14428/esann/2024.ES2024-21)
     > Continual learning aims to address the challenge of catastrophic forgetting in training models where data patterns are non-stationary. Previous research has shown that fully-trained graph learning models are particularly affected by this issue. One approach to lifting part of the burden is to leverage the representations provided by a training-free reservoir computing model. In this work, we evaluate for the first time different continual learning strategies in conjunction with Graph Echo State Networks, which have already demonstrated their efficacy and efficiency in graph classification tasks.
 
 - Michele Fontanesi, Alessio Micheli, Marco Podda, and Domenico Tortorella (2024). ***Analyzing Explanations of Deep Graph Networks through Node Centrality and Connectivity***. Accepted at Discovery Science 2024.
@@ -66,15 +66,19 @@ Experiments demonstrate how these bounds allow an easier parameter selection and
 # Teaching
 - Teaching Assistant for the *Machine Learning* course, Master Degree in Computer Science (fall 2022) [↪](https://elearning.di.unipi.it/enrol/index.php?id=302)
 
-# Membership
-- Vice-Chair of the IEEE Student Branch of Pisa (2023-)
-- Institute of Electrical and Electronics Engineers (IEEE), Student member since 2016
-- Association for Computing Machinery (ACM), Student member since 2017
-- European Neural Network Society (ENNS), Student member (2022)
+# Conference organization
 - ICANN 2022, Program Committee member [↪](https://e-nns.org/icann2022/organization/programme-committee/)
 - ICANN 2023, Program Committee member [↪](https://e-nns.org/icann2023/organization/programme-committee/)
 - Temporal Graph Learning Workshop @ NeurIPS 2023, Program Committee member [↪](https://sites.google.com/view/tglworkshop-2023/home#h.axfs4bkigqjd)
 - RC 2024 Workshop @ ICANN 2024, Organizing Committee member [↪](https://sites.google.com/view/reservoircomputing2024)
+- 14th IAPR-TC15 International Workshop on Graph-Based Representations in Pattern Recognition (GbR 2025), Program Committee member [↪](https://gbr2025.sciencesconf.org/resource/page/id/2)
+
+# Membership
+- Vice-Chair of the IEEE Student Branch of Pisa (2023-)
+- Institute of Electrical and Electronics Engineers (IEEE), Student member since 2016
+- Association for Computing Machinery (ACM), Student member since 2017
+- European Neural Network Society (ENNS), Student member since 2022
+- CVPL, the Italian chapter of the International Association for Pattern Recognition (IAPR), member since 2024
 
 # Contact
 **Room 308**  
