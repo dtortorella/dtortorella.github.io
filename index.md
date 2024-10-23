@@ -1,8 +1,8 @@
 ---
-title: Domenico Tortorella
+title: Domenico Tortorella, PhD
 ---
 
-Domenico Tortorella received the BSc in computer engineering from the University of Salerno, Italy, in 2017, and the MSc in computer science from the University of Pisa, Italy, in 2020. Currently, he is a PhD student in computer science at the University of Pisa under the supervision of prof. Alessio Micheli, working within the Computational Intelligence and Machine Learning research group ([CIML](https://ciml.di.unipi.it/)) at the Department of Computer Science, and a research fellow for the Future AI Research ([FAIR](https://fondazione-fair.it/)) project.
+Domenico Tortorella received the PhD in computer science *cum laude* from the University of Pisa, Italy, in 2024 for his thesis "Efficient Models for Deep Learning on Graphs" under the supervision of prof. Alessio Micheli. Previously he received the BSc in computer engineering from the University of Salerno, Italy, in 2017, and the MSc in computer science from the University of Pisa, Italy, in 2020, both *cum laude*. Currently, he is a research fellow in the Department of Computer Science at the University of Pisa, working for the Future AI Research ([FAIR](https://fondazione-fair.it/)) project, and he is a member of the Computational Intelligence and Machine Learning research group ([CIML](https://ciml.di.unipi.it/)).
 
 # Research topics
 - Machine learning for graphs
