@@ -7,7 +7,7 @@ excerpt: 'Analysis of dense and sparse reservoir designs for node-level GESN via
 date: 2024-06-12
 venue: 'Neurocomputing'
 paperurl: 'https://doi.org/10.1016/j.neucom.2024.127965'
-citation: 'A. Micheli, D. Tortorella (2009). &quot;Designs of Graph Echo State Networks for Node Classification.&quot; <i>Neurocomputing</i>, vol. 597, 127965.'
+citation: 'A. Micheli, D. Tortorella (2024). &quot;Designs of Graph Echo State Networks for Node Classification.&quot; <i>Neurocomputing</i>, vol. 597, 127965.'
 ---
 
 ![Graphical abstract](/images/2024-06-12-designs-of-graph-echo-state-networks.jpg)
