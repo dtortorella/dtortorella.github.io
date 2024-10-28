@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2021-10-06-dynamic-graph-echo-state-networks
 excerpt: 'Preliminary experiments on temporal graph classification with DynGESN, a novel reservoir computing model for dynamic graphs.'
 date: 2021-10-06
-venue: 'ESANN 2021'
+venue: 'ESANN'
 paperurl: 'https://doi.org/10.14428/esann/2021.ES2021-70'
 citation: 'D. Tortorella, A. Micheli (2021). &quot;Dynamic Graph Echo State Networks.&quot; <i>Proceedings of the 29th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2021)</i>, pp. 99-104.'
 ---
