@@ -12,7 +12,7 @@ title                    : "Domenico Tortorella"
 title_separator          : "-"
 name                     : &name "Domenico Tortorella"
 description              : &description "Research fellow at the Department of Computer Science, University of Pisa, Italy"
-url                      : https://dtortorella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dtortorella.it # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dtortorella/dtortorella.github.io"
 
