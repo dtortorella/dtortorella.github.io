@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57313459700"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
