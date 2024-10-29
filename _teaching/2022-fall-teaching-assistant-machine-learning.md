@@ -8,6 +8,9 @@ date: 2022-09-12
 location: "Pisa, Italy"
 ---
 
+Supporting the students in matters concerning the course project.
+
+
 **Machine Learning (2022, Accademic Year 22/23)**
 
 Code: 654AA, Credits (ECTS): 9, Semester: 1
