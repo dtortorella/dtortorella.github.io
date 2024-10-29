@@ -8,7 +8,7 @@ date: 2022-09-12
 location: "Pisa, Italy"
 ---
 
-# Machine Learning (2022, Accademic Year 22/23)
+**Machine Learning (2022, Accademic Year 22/23)**
 
 Code: 654AA, Credits (ECTS): 9, Semester: 1
 - Master Programme in Computer Science
@@ -20,4 +20,5 @@ Code: 654AA, Credits (ECTS): 9, Semester: 1
 **Teaching Assistant**: Domenico Tortorella
 
 [Course webpage](https://elearning.di.unipi.it/course/view.php?id=302)
+
 [Course programme](https://esami.unipi.it/esami2/programma.php?c=54800)
