@@ -14,9 +14,6 @@ Domenico Tortorella received the PhD in computer science *cum laude* from the Un
 - Reservoir computing
 - Constructive neural networks
 
-# Teaching
-- Teaching Assistant for the *Machine Learning* course, Master Degree in Computer Science (fall 2022) [↪](https://elearning.di.unipi.it/enrol/index.php?id=302)
-
 # Conference organization
 - ICANN 2022, Program Committee member [↪](https://e-nns.org/icann2022/organization/programme-committee/)
 - ICANN 2023, Program Committee member [↪](https://e-nns.org/icann2023/organization/programme-committee/)
