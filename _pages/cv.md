@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- Ph.D. in Computer Science *cum laude*, University of Pisa, 2024
+  - Thesis *"Efficient Models for Deep Learning on Graphs"* under the supervision of prof. Alessio Micheli
+- M.Sc. in Computer Science *cum laude*, University of Pisa, 2020
+- B.Sc. in Computer Engineering *cum laude*, University of Salerno, 2017
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Conference organization
+- ICANN 2022, Program Committee member [↪](https://e-nns.org/icann2022/organization/programme-committee/)
+- ICANN 2023, Program Committee member [↪](https://e-nns.org/icann2023/organization/programme-committee/)
+- Temporal Graph Learning Workshop @ NeurIPS 2023, Program Committee member [↪](https://sites.google.com/view/tglworkshop-2023/home#h.axfs4bkigqjd)
+- RC 2024 Workshop @ ICANN 2024, Organizing Committee member [↪](https://sites.google.com/view/reservoircomputing2024)
+- 14th IAPR-TC15 International Workshop on Graph-Based Representations in Pattern Recognition (GbR 2025), Program Committee member [↪](https://gbr2025.sciencesconf.org/resource/page/id/2)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Service and leadership
+- Vice-Chair of the IEEE Student Branch of Pisa (2023-2024)
+- Institute of Electrical and Electronics Engineers (IEEE), member since 2016
+- Association for Computing Machinery (ACM), member since 2017
+- European Neural Network Society (ENNS), member since 2022
+- CVPL, the Italian chapter of the International Association for Pattern Recognition (IAPR), member since 2024
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
