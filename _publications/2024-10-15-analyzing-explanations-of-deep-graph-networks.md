@@ -6,7 +6,8 @@ permalink: /publication/2024-10-15-analyzing-explanations-of-deep-graph-networks
 excerpt: "We analyze the alignment of DGNs explanations to node centrality and graph connectivity, highlighting the presence of different inductive biases."
 date: 2024-10-15
 venue: 'Discovery Science'
-citation: 'M. Fontanesi, A. Micheli, M. Podda, D. Tortorella (2024). &quot;Analyzing Explanations of Deep Graph Networks through Node Centrality and Connectivity.&quot; <i>Discovery Science 2024</i>, to appear.'
+paperurl: 'https://doi.org/10.1007/978-3-031-78977-9_19'
+citation: 'M. Fontanesi, A. Micheli, M. Podda, D. Tortorella (2025). &quot;Analyzing Explanations of Deep Graph Networks through Node Centrality and Connectivity.&quot; <i>Proceedings of the 27th International Conference on Discovery Science (DS 2024)</i>, LNCS vol. 15243, pp. 295-309.'
 ---
 
 ![Graphical abstract](/images/2024-10-15-analyzing-explanations-of-deep-graph-networks.png)
