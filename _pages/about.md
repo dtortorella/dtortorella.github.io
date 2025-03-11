@@ -29,6 +29,6 @@ Domenico Tortorella received the PhD in computer science *cum laude* from the Un
 - CVPL, the Italian chapter of the International Association for Pattern Recognition (IAPR), member since 2024
 
 # Contact
-**Room 308**  
+**Room 385**  
 **Department of Computer Science, University of Pisa**  
 Largo B. Pontecorvo, 3, 56127 Pisa, Italy
