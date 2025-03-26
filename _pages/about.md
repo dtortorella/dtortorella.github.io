@@ -20,8 +20,9 @@ Domenico Tortorella received the PhD in computer science *cum laude* from the Un
 - Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2025 [↪](https://sites.google.com/view/nn4g2025)
 
 # Recent publications
-  <ul>{% for post in site.publications reversed limit: 3 %}
-    {% include archive-single-cv.html %}
+{% assing latest_pubs = site.publications | reverse}
+  <ul>{% for post in latest_pubs limit: 3 %}
+    {% include archive-single-cv2.html %}
   {% endfor %}</ul>
 
 # Contact
