@@ -19,12 +19,10 @@ Domenico Tortorella received the PhD in computer science *cum laude* from the Un
 - 3rd International Workshop on Reservoir Computing @ ICANN 2025 [↪](https://sites.google.com/view/reservoircomputing2025)
 - Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2025 [↪](https://sites.google.com/view/nn4g2025)
 
-# Membership
-- Vice-Chair of the IEEE Student Branch of Pisa (2023-2024)
-- Institute of Electrical and Electronics Engineers (IEEE), member since 2016
-- Association for Computing Machinery (ACM), member since 2017
-- European Neural Network Society (ENNS), member since 2022
-- CVPL, the Italian chapter of the International Association for Pattern Recognition (IAPR), member since 2024
+# Recent publications
+  <ul>{% for post in site.publications reversed limit: 3 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 # Contact
 **Room 385**  
