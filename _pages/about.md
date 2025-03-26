@@ -14,18 +14,16 @@ Domenico Tortorella received the PhD in computer science *cum laude* from the Un
 - Reservoir computing
 - Constructive neural networks
 
-# Conference organization
-- ICANN 2022, Program Committee member [↪](https://e-nns.org/icann2022/organization/programme-committee/)
-- ICANN 2023, Program Committee member [↪](https://e-nns.org/icann2023/organization/programme-committee/)
-- Temporal Graph Learning Workshop @ NeurIPS 2023, Program Committee member [↪](https://sites.google.com/view/tglworkshop-2023/home#h.axfs4bkigqjd)
-- RC 2024 Workshop @ ICANN 2024, Organizing Committee member [↪](https://sites.google.com/view/reservoircomputing2024)
-- 14th IAPR-TC15 International Workshop on Graph-Based Representations in Pattern Recognition (GbR 2025), Program Committee member [↪](https://gbr2025.sciencesconf.org/resource/page/id/2)
+# Upcoming conferences
+- Special Session on *Design and Theory of Deep Graph Learning* @ IJCNN 2025 [↪](https://sites.google.com/view/dtdgl-2025)
+- 3rd International Workshop on Reservoir Computing @ ICANN 2025 [↪](https://sites.google.com/view/reservoircomputing2025)
+- Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2025, Organizing Committee member [↪](https://sites.google.com/view/nn4g2025)
 
 # Membership
-- Vice-Chair of the IEEE Student Branch of Pisa (2023-)
-- Institute of Electrical and Electronics Engineers (IEEE), Student member since 2016
-- Association for Computing Machinery (ACM), Student member since 2017
-- European Neural Network Society (ENNS), Student member since 2022
+- Vice-Chair of the IEEE Student Branch of Pisa (2023-2024)
+- Institute of Electrical and Electronics Engineers (IEEE), member since 2016
+- Association for Computing Machinery (ACM), member since 2017
+- European Neural Network Society (ENNS), member since 2022
 - CVPL, the Italian chapter of the International Association for Pattern Recognition (IAPR), member since 2024
 
 # Contact

@@ -19,9 +19,11 @@ redirect_from:
 - ICANN 2022, Program Committee member [↪](https://e-nns.org/icann2022/organization/programme-committee/)
 - ICANN 2023, Program Committee member [↪](https://e-nns.org/icann2023/organization/programme-committee/)
 - Temporal Graph Learning Workshop @ NeurIPS 2023, Program Committee member [↪](https://sites.google.com/view/tglworkshop-2023/home#h.axfs4bkigqjd)
-- RC 2024 Workshop @ ICANN 2024, Organizing Committee member [↪](https://sites.google.com/view/reservoircomputing2024)
+- 2nd International Workshop on Reservoir Computing @ ICANN 2024, Organizing Committee member [↪](https://sites.google.com/view/reservoircomputing2024)
 - 14th IAPR-TC15 International Workshop on Graph-Based Representations in Pattern Recognition (GbR 2025), Program Committee member [↪](https://gbr2025.sciencesconf.org/resource/page/id/2)
 - Special Session on *Design and Theory of Deep Graph Learning* @ IJCNN 2025, Organizing Committee member [↪](https://sites.google.com/view/dtdgl-2025)
+- 3rd International Workshop on Reservoir Computing @ ICANN 2025, Organizing Committee member [↪](https://sites.google.com/view/reservoircomputing2025)
+- Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2025, Organizing Committee member [↪](https://sites.google.com/view/nn4g2025)
 
 ## Service and leadership
 - Vice-Chair of the IEEE Student Branch of Pisa (2023-2024)
