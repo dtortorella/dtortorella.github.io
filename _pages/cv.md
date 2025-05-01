@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Employment
+- Assistant professor (RTD-A), Department of Computer Science, University of Pisa (since May 5th, 2025)
+- Post-doc research fellow, Department of Computer Science, University of Pisa, with a grant from the Future AI Research ([FAIR](https://fondazione-fair.it/)) project (February 1st, 2024 – May 4th, 2025)
+
 ## Education
 - Ph.D. in Computer Science *cum laude*, University of Pisa, 2024
   - Thesis *"Efficient Models for Deep Learning on Graphs"* under the supervision of prof. Alessio Micheli
