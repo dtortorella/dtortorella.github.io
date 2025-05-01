@@ -7,7 +7,7 @@ excerpt: "We propose a RIM, a new model for encoding graph topology that is amea
 date: 2025-04-23
 venue: 'ESANN'
 paperurl: 'https://doi.org/10.14428/esann/2025.ES2025-109'
-citation: 'D. Tortorella, A. Brau, A. Micheli (2025). &quot; Encoding Graph Topology with Randomized Ising Models.&quot; <i>Proceedings of the 33rd European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2025)</i>, pp. 271-276.'
+citation: 'D. Tortorella, A. Brau, A. Micheli (2025). &quot;Encoding Graph Topology with Randomized Ising Models.&quot; <i>Proceedings of the 33rd European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2025)</i>, pp. 271-276.'
 ---
 
 ![Graphical abstract](/images/2025-04-23-encoding-graph-topology-with-rim.png)

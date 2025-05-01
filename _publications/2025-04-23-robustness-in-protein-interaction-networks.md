@@ -7,7 +7,7 @@ excerpt: "Reframing the prediction of dynamical properties of biochemical pathwa
 date: 2025-04-23
 venue: 'ESANN'
 paperurl: 'https://doi.org/10.14428/esann/2025.ES2025-153'
-citation: 'A. Dipalma, D. Tortorella, A. Micheli (2025). &quot; Robustness in Protein-Protein Interaction Networks: A Link Prediction Approach.&quot; <i>Proceedings of the 33rd European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2025)</i>, pp. 277-282.'
+citation: 'A. Dipalma, D. Tortorella, A. Micheli (2025). &quot;Robustness in Protein-Protein Interaction Networks: A Link Prediction Approach.&quot; <i>Proceedings of the 33rd European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2025)</i>, pp. 277-282.'
 ---
 
 ![Graphical abstract](/images/2025-04-23-robustness-in-protein-interaction-networks.png)
