@@ -37,9 +37,9 @@ redirect_from:
 - CVPL, the Italian chapter of the International Association for Pattern Recognition (IAPR), member since 2024
 
 ## Publications
-  <ul>{% for post in site.publications reversed %}
+  <ol reversed>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 ## Talks
   <ul>{% for post in site.talks reversed %}
