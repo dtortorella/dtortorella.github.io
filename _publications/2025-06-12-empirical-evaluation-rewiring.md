@@ -7,7 +7,7 @@ excerpt: 'We propse an evaluation framework for graph rewiring methods based on 
 date: 2025-06-12
 venue: 'Pattern Recognition Letters'
 paperurl: 'https://doi.org/10.1016/j.patrec.2025.05.021'
-citation: 'A. Micheli, D. Tortorella (2025). &quot;An Empirical Evaluation of Rewiring Approaches in Graph Neural Networks.&quot; <i>Pattern Recognition Letters</i>, in press.'
+citation: 'A. Micheli, D. Tortorella (2025). &quot;An Empirical Evaluation of Rewiring Approaches in Graph Neural Networks.&quot; <i>Pattern Recognition Letters</i>, vol. 196, pp. 134–141.'
 ---
 
 ![Graphical abstract](/images/2025-06-12-empirical-evaluation-rewiring.jpg)
