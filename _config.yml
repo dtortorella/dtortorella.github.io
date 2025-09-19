@@ -21,7 +21,7 @@ repository               : "dtortorella/dtortorella.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-mustache.png"
   name             : "Domenico Tortorella, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Assistant professor (RTD-A)"
