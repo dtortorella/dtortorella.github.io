@@ -28,6 +28,7 @@ redirect_from:
 - Special Session on *Design and Theory of Deep Graph Learning* @ IJCNN 2025, Organizing Committee member [↪](https://sites.google.com/view/dtdgl-2025)
 - 3rd International Workshop on Reservoir Computing @ ICANN 2025, Organizing Committee member [↪](https://sites.google.com/view/reservoircomputing2025)
 - Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2025, Organizing Committee member [↪](https://sites.google.com/view/nn4g2025)
+- ICANN 2026, Publication Chair [↪](https://e-nns.org/icann2026/organization/organising-committee/)
 
 ## Service and leadership
 - Vice-Chair of the IEEE Student Branch of Pisa (2023-2024)
