@@ -1,17 +1,17 @@
 ---
-title: "TA for the Machine Learning course (fall 2024)"
+title: "TA for the Machine Learning course (fall 2025)"
 collection: teaching
 type: "Master degree course"
-permalink: /teaching/2024-fall-teaching-assistant-machine-learning
+permalink: /teaching/2025-fall-teaching-assistant-machine-learning
 venue: "University of Pisa, Department of Computer Science"
-date: 2024-10-21
+date: 2025-10-21
 location: "Pisa, Italy"
 ---
 
 Supporting the students in matters concerning the course project.
 
 
-## Machine Learning (2024, Accademic Year 24/25)
+## Machine Learning (2025, Accademic Year 25/26)
 
 Code: 654AA, Credits (ECTS): 9, Semester: 1
 - Master Programme in Computer Science
@@ -22,6 +22,6 @@ Code: 654AA, Credits (ECTS): 9, Semester: 1
 
 **Teaching Assistants**: Domenico Tortorella, Alessandro Dipalma
 
-[Course webpage](https://elearning.di.unipi.it/course/view.php?id=994)
+[Course webpage](https://elearning.di.unipi.it/course/view.php?id=1111)
 
 Office hours are on Wed. 14:30-15:30 by appointment
