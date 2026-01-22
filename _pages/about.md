@@ -15,9 +15,8 @@ Domenico Tortorella received the PhD in computer science *cum laude* from the Un
 - Constructive neural networks
 
 # Upcoming conferences
-- Special Session on *Design and Theory of Deep Graph Learning* @ IJCNN 2025 [↪](https://sites.google.com/view/dtdgl-2025)
-- 3rd International Workshop on Reservoir Computing @ ICANN 2025 [↪](https://sites.google.com/view/reservoircomputing2025)
-- Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2025 [↪](https://sites.google.com/view/nn4g2025)
+- 35th International Conference on Artificial Neural Networks (ICANN 2026) [↪](https://e-nns.org/icann2026/)
+- Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2026 [↪](https://sites.google.com/unipi.it/nn4g2026)
 
 # Recent publications
 {% assign latest_pubs = site.publications | sort: 'date' | reverse %}
