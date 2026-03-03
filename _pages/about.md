@@ -17,6 +17,7 @@ Domenico Tortorella received the PhD in computer science *cum laude* from the Un
 # Upcoming conferences
 - 35th International Conference on Artificial Neural Networks (ICANN 2026) [↪](https://e-nns.org/icann2026/)
 - Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2026 [↪](https://sites.google.com/unipi.it/nn4g2026)
+- 4th International Workshop on Reservoir Computing @ ICANN 2026 [↪](https://sites.google.com/unipi.it/reservoircomputing2026)
 
 # Recent publications
 {% assign latest_pubs = site.publications | sort: 'date' | reverse %}

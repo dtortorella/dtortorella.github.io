@@ -30,6 +30,7 @@ redirect_from:
 - Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2025, Organizing Committee [↪](https://sites.google.com/view/nn4g2025)
 - 35th International Conference on Artificial Neural Networks (ICANN 2026), Publication Chair [↪](https://e-nns.org/icann2026/organization/organising-committee/)
 - Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2026, Organizing Committee [↪](https://sites.google.com/unipi.it/nn4g2026)
+- 4th International Workshop on Reservoir Computing @ ICANN 2026, Organizing Committee [↪](https://sites.google.com/unipi.it/reservoircomputing2026)
 
 ## Service and leadership
 - Vice-Chair of the IEEE Student Branch of Pisa (2023-2024)
