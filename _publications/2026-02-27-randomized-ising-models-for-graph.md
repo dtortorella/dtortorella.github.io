@@ -7,7 +7,7 @@ excerpt: 'RIM4G is a new model for graph node representation that is ameanable t
 date: 2026-02-27
 venue: 'Neurocomputing'
 paperurl: 'https://doi.org/10.1016/j.neucom.2026.133195'
-citation: 'M.G. Berni, A. Brau, A. Micheli, D. Tortorella (2026). &quot;Randomized ising models for graph node representation.&quot; <i>Neurocomputing</i>, in press.'
+citation: 'M.G. Berni, A. Brau, A. Micheli, D. Tortorella (2026). &quot;Randomized Ising models for graph node representation.&quot; <i>Neurocomputing</i>, vol. 679, 133195.'
 ---
 
 ![Graphical abstract](/images/2026-02-27-randomized-ising-models-for-graph.png)
