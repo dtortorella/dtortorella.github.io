@@ -33,6 +33,7 @@ redirect_from:
 - 4th International Workshop on Reservoir Computing @ ICANN 2026, Organizing Committee [↪](https://sites.google.com/unipi.it/reservoircomputing2026)
 
 ## Service and leadership
+- Secretary of the European Neural Network Society (since [2026](https://e-nns.org/current-enns-executive-committee/))
 - Vice-Chair of the IEEE Student Branch of Pisa (2023-2024)
 - Institute of Electrical and Electronics Engineers (IEEE), member since 2016
 - Association for Computing Machinery (ACM), member since 2017
