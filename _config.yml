@@ -39,6 +39,7 @@ author:
   pubmed           : # URL
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57313459700"
+  dblp             : "https://dblp.org/pid/304/3354"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
