@@ -28,9 +28,13 @@ redirect_from:
 - Special Session on *Design and Theory of Deep Graph Learning* @ IJCNN 2025, Organizing Committee [↪](https://sites.google.com/view/dtdgl-2025)
 - 3rd International Workshop on Reservoir Computing @ ICANN 2025, Organizing Committee [↪](https://sites.google.com/view/reservoircomputing2025)
 - Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2025, Organizing Committee [↪](https://sites.google.com/view/nn4g2025)
+- 2026 IEEE World Congress on Computational Intelligence / International Joint Conference on Neural Networks (IJCNN 2026), Area Chair
 - 35th International Conference on Artificial Neural Networks (ICANN 2026), Publication Chair [↪](https://e-nns.org/icann2026/organization/organising-committee/)
 - Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2026, Organizing Committee [↪](https://sites.google.com/unipi.it/nn4g2026)
 - 4th International Workshop on Reservoir Computing @ ICANN 2026, Organizing Committee [↪](https://sites.google.com/unipi.it/reservoircomputing2026)
+
+## Editorship
+- *Intelligenza Artificiale*, the official journal of the Italian Association for Artificial Intelligence (AIxIA), Editorial Board member [↪](https://journals.sagepub.com/editorial-board/INA)
 
 ## Service and leadership
 - Secretary of the European Neural Network Society (since [2026](https://e-nns.org/current-enns-executive-committee/))
