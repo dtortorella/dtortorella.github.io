@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Domenico Tortorella received the PhD in computer science *cum laude* from the University of Pisa, Italy, in 2024 for his thesis "Efficient Models for Deep Learning on Graphs" under the supervision of prof. Alessio Micheli. Previously he received the BSc in computer engineering from the University of Salerno, Italy, in 2017, and the MSc in computer science from the University of Pisa, Italy, in 2020, both *cum laude*. Currently, he is an assistant professor (RTD-A) in the Department of Computer Science at the University of Pisa, and he is a member of the Computational Intelligence and Machine Learning research group ([CIML](https://ciml.di.unipi.it/)).
+Domenico Tortorella received the PhD in computer science *cum laude* from the University of Pisa, Italy, in 2024 for his thesis "Efficient Models for Deep Learning on Graphs" under the supervision of prof. Alessio Micheli. Previously he received the BSc in computer engineering from the University of Salerno, Italy, in 2017, and the MSc in computer science from the University of Pisa, Italy, in 2020, both *cum laude*. Currently, he is an assistant professor (RTD-A) in the Department of Computer Science at the University of Pisa, and he is a member of the Computational Intelligence and Machine Learning research group ([CIML](https://ciml.di.unipi.it/)). He currently hold the office of Secretary of the European Neural Network Society ([ENNS](https://e-nns.org/current-enns-executive-committee/)).
 
 # Research topics
 - Machine learning for graphs
@@ -15,9 +15,7 @@ Domenico Tortorella received the PhD in computer science *cum laude* from the Un
 - Constructive neural networks
 
 # Upcoming conferences
-- 35th International Conference on Artificial Neural Networks (ICANN 2026) [↪](https://e-nns.org/icann2026/)
-- Special Session on *Neural Networks for Graphs and Beyond* (NN4G+) @ ICANN 2026 [↪](https://sites.google.com/unipi.it/nn4g2026)
-- 4th International Workshop on Reservoir Computing @ ICANN 2026 [↪](https://sites.google.com/unipi.it/reservoircomputing2026)
+- 15th IAPR-TC15 International Workshop Graph-Based Representations in Pattern Recognition (GbR 2027) [↪](https://gbrpr.org/)
 
 # Recent publications
 {% assign latest_pubs = site.publications | sort: 'date' | reverse %}
