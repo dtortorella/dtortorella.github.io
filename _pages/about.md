@@ -27,6 +27,6 @@ Read more [here](/research-topics/) about the topics:
   {% endfor %}</ul>
 
 # Contact
-**Room 330**
-**Department of Computer Science, University of Pisa**
+**Room 330**  
+**Department of Computer Science, University of Pisa**  
 Largo B. Pontecorvo, 3, 56127 Pisa, Italy
