@@ -47,6 +47,8 @@ redirect_from:
 ## Awards
 - Best paper award at GbRPR 2023 for [*Minimum Spanning Set Selection in Graph Kernels*](https://dtortorella.it/publication/2023-09-06-minimum-spanning-set-selection)
 - PhD thesis award - [Premio di studio per tesi di dottorato di ricerca 2025](https://www.unipi.it/avvisi/premi-di-studio-per-tesi-di-dottorato-di-ricerca-2025-settima-edizione/) - [Settore 1 – “Scienze Matematiche e Informatiche, Scienze Fisiche, Scienze della Terra”](https://alboufficiale.unipi.it/wp-content/uploads/2025/10/DR_approvazione-atti_-Settore-1.pdf)
+- PhD thesis award [con.Scienze (2025 edition)](https://www.conscienze.it/premi_2025_vincitori.asp) for the best Computer Science PhD thesis, awarded by the National Conference of Presidents and Directors of University Departments in Science and Technology.
+- Best paper award at the 4th International Workshop on Deep Learning meets Neuromorphic Hardware ([DLMNH 2026](https://sites.google.com/view/dlmnh2026/best-paper-awards)) for *Randomized Ising Models for Network Quantification: Novel Applications for Unconventional Computing*.
 
 
 ## Publications
